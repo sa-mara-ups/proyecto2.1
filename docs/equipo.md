@@ -10,12 +10,13 @@
 
 | Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
 |---|---|---|---|
-|Miguel Choque | | | |
-|Samara Caceres | | | |
-|Cristian Chambi | | | |
-|Danitza Gonzales | | | |
-| | | | |
-
+|Miguel Choque | |Responsable | |
+|Samara Caceres | |Responsable | |
+|Cristian Chambi | |Responsable | |
+|Danitza Gonzales | |Liderazgo | |
+|Dajyaly Espinoza | |Colaborativa | |
+|Arlette Viveros | |Buenas ideas | |
+|Jhasmin huanca | | | |
 ## Normas internas
 
 - Canal de comunicación:
