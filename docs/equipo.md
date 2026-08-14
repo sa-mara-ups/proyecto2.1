@@ -10,12 +10,13 @@
 
 | Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
 |---|---|---|---|
-|Miguel Choque | |Responsable | |
-|Samara Caceres | |Responsable | |
-|Cristian Chambi | |Responsable | |
-|Danitza Gonzales | |Liderazgo | |
-|Dajyaly Espinoza | |Colaborativa | |
-|Arlette Viveros | |Buenas ideas | |
+|Miguel Choque |Diseñador de base de datos  |Responsable |se encarga de ordenar y guardar los datos del sistema  |
+|Samara Caceres |Diseño|Responsable |que el diseño se vea bien de la pagina |
+|Dajyaly Espinoza |Programador |Colaborativa |escribir el codigo |
+|Cristian Chambi |Analista |Responsable |estudia y busca informacion que necesitamos |
+|Danitza Gonzales |Lider |Liderazgo |que todos trabajen responsablemente y por iwal |
+|Arlette Viveros |Tester |Buenas ideas |busca y comprueba errores  |
+|Alisson Calle|Analista |adaptacion y creatividad |estudia y busca informacion que necesitamos |
 
 ## Normas internas
 
@@ -41,9 +42,10 @@
 |---|---|
 |Miguel |si |
 |Samara |si |
+|Dajyaly|si|
 |Cristhian |si |
 |danitza |si |
 |arlette |si|
-|Dajyaly|si|
+|Alisson|si|
 
 
