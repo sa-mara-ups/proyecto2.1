@@ -3,7 +3,7 @@
 ## Datos generales
 
 - Organización:  
-- Fecha: 07/072026
+- Fecha: 07/07/2026
 - Medio: presencial
 - Persona entrevistada o rol: inspectora del porton
 - Integrantes presentes: Dajyaly Espinoza/ Danitza Gonzales/ Miguel Choque
