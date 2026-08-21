@@ -7,7 +7,8 @@
 - Medio: presencial
 - Persona entrevistada o rol: inspectora del porton
 - Integrantes presentes: Dajyaly Espinoza/ Danitza Gonzales/ Miguel Choque
-- Autorización para registrar información: sí / no
+- Autorización para registrar información: sí
+- 
 
 ## Preguntas
 
