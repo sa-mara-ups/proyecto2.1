@@ -2,11 +2,11 @@
 
 ## Datos generales
 
-- Organización:
-- Fecha:
-- Medio: presencial / videollamada / teléfono / otro
-- Persona entrevistada o rol:
-- Integrantes presentes:
+- Organización:  
+- Fecha: 07/072026
+- Medio: presencial
+- Persona entrevistada o rol: inspectora del porton
+- Integrantes presentes: Dajyaly Espinoza/ Danitza Gonzales/ Miguel Choque
 - Autorización para registrar información: sí / no
 
 ## Preguntas
