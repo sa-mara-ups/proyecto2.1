@@ -26,7 +26,7 @@ Estudiantes y apoderados que buscan conocer las especialidades del establecimien
 - 
 
 ## Resultado esperado al 27/10/2026
-tener una pagina web do
+tener una pagina web donde entrege informacion de especialidades y que la gente se divierta con las preguntas dinamicas
 
 
 ## Indicadores de logro
