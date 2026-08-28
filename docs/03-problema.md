@@ -2,19 +2,17 @@
 
 ## Organización
 
-- Nombre:
-- Área:
-- Ubicación general:
+- Nombre:NovaCode
+- Área: 
+- Ubicación general: 
 - Actividad principal:
 - Usuarios relacionados:
 
 ## Proceso actual
-
-Describir paso a paso cómo se realiza actualmente.
+la informacion se mandan mediante mensajes, charlas en grupo y anotaciones en cuadernos. 
 
 ## Problema
-
-Redactar el problema en un párrafo claro.
+Los apoderados no estan tan informados sobre las especialidad del liceo b4 y al ver la pagina se informan mas.
 
 ## Evidencias
 
