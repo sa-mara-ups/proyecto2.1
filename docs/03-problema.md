@@ -2,11 +2,11 @@
 
 ## Organización
 
-- Nombre:NovaCode
-- Área: 
-- Ubicación general: 
-- Actividad principal:
-- Usuarios relacionados:
+- Nombre: NovaCode
+- Área: Digital
+- Ubicación general: b4
+- Actividad principal: pagina web
+- Usuarios relacionados: apoderados y estudiantes
 
 ## Proceso actual
 la informacion se mandan mediante mensajes, charlas en grupo y anotaciones en cuadernos. 
