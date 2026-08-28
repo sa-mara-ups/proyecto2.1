@@ -46,9 +46,10 @@ R:Sí. Se deben proteger los datos personales de los estudiantes y utilizar sola
  nuestra pagina web busca atraer a alumnos que les interese alguna de las especialidades para su futuro brindando informacion y preguntas dinamicas que les puede llegar a interesar 
 
 ## Evidencias obtenidas
-
+por medio de una entrevista o charla con el cordinador supimos que los mismo apoderados pueden venir a pedir ayuda con la matricula y que la informacion que le llega a los futuros estudiantes o interesados del b4 son por ferias vocacionales 
 
 ## Necesidades principales
+
 
 
 
@@ -58,5 +59,5 @@ R:Sí. Se deben proteger los datos personales de los estudiantes y utilizar sola
 ## Protección de datos
 
 - [ ] Se eliminaron datos personales innecesarios.
-- [ ] Se solicitó autorización para imágenes o documentos.
-- [ ] No se publicarán datos confidenciales.
+- [si] Se solicitó autorización para imágenes o documentos.
+- [no] No se publicarán datos confidenciales.
