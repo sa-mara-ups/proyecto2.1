@@ -15,9 +15,9 @@ Estudiantes y apoderados que buscan conocer las especialidades del establecimien
 
 ## Alcance: incluye
 
-- 
-- 
-- 
+- registro de alumnos interesados
+- registros de inscritos
+- asignacion de roles
 
 ## Alcance: no incluye
 
